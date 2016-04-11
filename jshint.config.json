@@ -1,0 +1,25 @@
+{
+  "esversion": 6,
+  "predef": [
+    "$",
+    "_",
+    "rdfstore",
+    "FormData",
+    "Backbone",
+    "document",
+    "require",
+    "define",
+    "console",
+    "window",
+    "process",
+    "setInterval",
+    "module",
+    "Image",
+    "exports",
+    "__dirname"
+  ],
+  "undef": true,
+  "curly": true,
+  "laxbreak":true,
+  "laxcomma":true
+}

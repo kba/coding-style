@@ -16,10 +16,14 @@
     "module",
     "Image",
     "exports",
+    "parent",
+    "setTimeout",
     "__dirname"
   ],
   "undef": true,
-  "curly": true,
+  "curly": false,
   "laxbreak":true,
-  "laxcomma":true
+  "quotmark": false,
+  "laxcomma":true,
+  "indent": false
 }

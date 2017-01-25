@@ -18,7 +18,8 @@
     "exports",
     "parent",
     "setTimeout",
-    "__dirname"
+    "__dirname",
+    "__filename"
   ],
   "undef": true,
   "curly": false,

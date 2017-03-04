@@ -19,6 +19,7 @@
     "parent",
     "setTimeout",
     "__dirname",
+    "__filename",
     "Buffer"
   ],
   "undef": true,

@@ -5,6 +5,11 @@ end_of_line = LF
 charset = utf-8
 max_line_length = 120
 
+[*.tex]
+end_of_line = LF
+charset = utf-8
+max_line_length = 78
+
 [*.md]
 indent_style = space
 indent_size = 2

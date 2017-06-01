@@ -21,6 +21,7 @@
     "__dirname",
     "__filename"
   ],
+  "asi": true,
   "undef": true,
   "curly": false,
   "laxbreak":true,

@@ -22,8 +22,11 @@
     "clearInterval",
     "__dirname",
     "Buffer",
-    "GM_registerMenuCommand"
+    "GM_registerMenuCommand",
+    "__filename",
+    "Buffer"
   ],
+  "asi": true,
   "undef": true,
   "curly": false,
   "laxbreak":true,

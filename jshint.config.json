@@ -12,18 +12,24 @@
     "console",
     "window",
     "process",
-    "setInterval",
     "module",
     "Image",
     "exports",
     "parent",
     "setTimeout",
-    "__dirname"
+    "setInterval",
+    "clearTimeout",
+    "clearInterval",
+    "__dirname",
+    "Buffer",
+    "GM_registerMenuCommand"
   ],
   "undef": true,
   "curly": false,
   "laxbreak":true,
   "quotmark": false,
   "laxcomma":true,
-  "indent": false
+  "jquery": false,
+  "indent": false,
+  "asi" : true
 }

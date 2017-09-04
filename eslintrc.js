@@ -50,5 +50,6 @@ module.exports = {
         GM_registerMenuCommand: true,
         __filename: true,
         Buffer: true,
+        fetch: true,
     },
 }

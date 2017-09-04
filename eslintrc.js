@@ -2,7 +2,7 @@ module.exports = {
     parserOptions: {
         "ecmaVersion": 2017
     },
-    extends: 'google',
+    extends: './eslintrc.google.js',
     env: {
         es6: true,
     },
@@ -10,12 +10,14 @@ module.exports = {
         'semi': [1, 'never'],
         'no-undef': 2,
         'curly': 0,
+        'valid-jsdoc': 0,
         'brace-style': 0,
         'block-spacing': 1,
         'space-before-function-paren': [0, {"anonymous": "never"}],
         'linebreak-style': 2,
         'padded-blocks': [0, 'never'],
         'quotes': 0,
+        'key-spacing': 0,
         'comma-style': [2, 'last'],
         'comma-dangle': 0,
         'indent': [0, 4],

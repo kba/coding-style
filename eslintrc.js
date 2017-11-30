@@ -9,6 +9,7 @@ module.exports = {
     rules: {
         'semi': [1, 'never'],
         'no-undef': 2,
+        'new-cap': 0,
         'curly': 0,
         'valid-jsdoc': 0,
         'brace-style': 0,

@@ -288,7 +288,7 @@ module.exports = {
     // 'space-infix-ops': 0,
     // 'space-unary-ops': 0,
     'spaced-comment': [2, 'always'],
-    'switch-colon-spacing': 2,
+    // 'switch-colon-spacing': 2,
     // 'template-tag-spacing': 0,
     // 'unicode-bom': 0,
     // 'wrap-regex': 0,

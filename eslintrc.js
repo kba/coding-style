@@ -2,12 +2,16 @@ module.exports = {
     parserOptions: {
         "ecmaVersion": 2017,
         "sourceType": "module",
+        "ecmaFeatures": {
+            "experimentalObjectRestSpread": true
+        }
     },
     extends: './eslintrc.google.js',
     env: {
         es6: true,
     },
     rules: {
+        'guard-for-in': 0,
         'arrow-parens': 0,
         'block-spacing': 0,
         'guard-for-in': 0,

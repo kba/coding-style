@@ -11,8 +11,10 @@ module.exports = {
         es6: true,
     },
     rules: {
+        'no-multiple-empty-lines': 0,
         'guard-for-in': 0,
         'arrow-parens': 0,
+        'spaced-comment': 0,
         'block-spacing': 0,
         'brace-style': 0,
         'camelcase': 0,
@@ -57,6 +59,7 @@ module.exports = {
         setTimeout: true,
         setInterval: true,
         clearTimeout: true,
+        FileReader: true,
         clearInterval: true,
         __dirname: true,
         GM_registerMenuCommand: true,

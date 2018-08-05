@@ -16,6 +16,7 @@ module.exports = {
         'arrow-parens': 0,
         'spaced-comment': 0,
         'block-spacing': 0,
+        'guard-for-in': 0,
         'brace-style': 0,
         'camelcase': 0,
         'comma-dangle': 0,

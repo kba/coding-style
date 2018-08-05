@@ -28,6 +28,7 @@
   ],
   "asi": true,
   "undef": true,
+  "asi": true,
   "curly": false,
   "laxbreak":true,
   "quotmark": false,
